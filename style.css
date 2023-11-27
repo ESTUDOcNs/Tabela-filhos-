@@ -1,0 +1,23 @@
+.outer-container {
+    background: rgb(85, 47, 120);
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+.social-icons a {
+    color: white;
+    font-size: 30px;
+    margin: 0 10px;
+}
+
+.social-icons a:hover {
+    color:aliceblue;
+}
